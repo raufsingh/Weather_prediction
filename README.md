@@ -45,6 +45,6 @@ Classification and regression are both supervised machine learning problems, bec
 <img src="https://i.imgur.com/1EMQmAw.png" width="480">
 
 
-In this tutorial, we'll train a _logistic regression_ model using the Rain in Australia dataset to predict whether or not it will rain at a location tomorrow, using today's data. This is a _binary classification_ problem.
+In this, we'll train a _logistic regression_ model using the Rain in Australia dataset to predict whether or not it will rain at a location tomorrow, using today's data. This is a _binary classification_ problem.
 
 Let's install the `scikit-learn` library which we'll use to train our model.
